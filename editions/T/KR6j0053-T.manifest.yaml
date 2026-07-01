@@ -1,0 +1,304 @@
+canonical_identifier: bkk:krp/KR6j0053/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0053/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說一切如來金剛三業最上祕密大教王經
+  identifiers:
+    krp: KR6j0053
+    cbeta: T18n0885
+    cbeta_old_id: T18n0885
+    authorityid: CA0003727
+    json_key: T0885
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0885.xml
+    old_id: T18n0885
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0053_000-T.yaml, hash: 'sha256:88f5f6413c7d8692e5853a05a9617d8b672cb088157186d94abad6188713eaa0'}
+  - {seq: 1, filename: KR6j0053_001-T.yaml, hash: 'sha256:8d5e567ebde9365244a5bbc7ff5fea1b4590e93c6458a67ee6479995abe71277'}
+  - {seq: 2, filename: KR6j0053_002-T.yaml, hash: 'sha256:6b058cb05a86e9c263a7cff1caefc087a3e01b5c542d00485443f5b4f2cc9af4'}
+  - {seq: 3, filename: KR6j0053_003-T.yaml, hash: 'sha256:d9478699441010421317cb3e40ab6a0d88f19f252b6cb4edc38d0252a06ad8eb'}
+  - {seq: 4, filename: KR6j0053_004-T.yaml, hash: 'sha256:ef3ae8edcb2df916aeae7d85ee973be799073ce1b63f9372bc6983ac0da240f4'}
+  - {seq: 5, filename: KR6j0053_005-T.yaml, hash: 'sha256:2be129b735dc23aca3afbe48cc30f1e55d097bae9ab553049f475cc7079f2f76'}
+  - {seq: 6, filename: KR6j0053_006-T.yaml, hash: 'sha256:4479d58287720d97a4a34ee765356dd84a0ccb960f785b2060a88e2fbe9b9734'}
+  - {seq: 7, filename: KR6j0053_007-T.yaml, hash: 'sha256:0326e9728a884235ed04999d06cf9af13afe3833ac2291016321c14d817f5d1b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0053_000-T.markers.yaml, hash: 'sha256:a7b16e1968f8e2a911a363d19daa90ed574e66505252f28f36ea0c752e931c97'}
+  - {seq: 1, role: markers, filename: assets/KR6j0053_001-T.markers.yaml, hash: 'sha256:49d1059876be60eee6368084b0d8166c8218fc65cf31d7cfada214ce52358913'}
+  - {seq: 2, role: markers, filename: assets/KR6j0053_002-T.markers.yaml, hash: 'sha256:00cbf5404e7c4353ec217ebe7b010627964488b004fe9992c86ee6641c052e4f'}
+  - {seq: 3, role: markers, filename: assets/KR6j0053_003-T.markers.yaml, hash: 'sha256:cae4c946d4a0ae5f4bb7ac4ffbef3542d0d3164d25533446988ef061205b28fa'}
+  - {seq: 4, role: markers, filename: assets/KR6j0053_004-T.markers.yaml, hash: 'sha256:67bc8e189405141683dc1e4dcc8e1452b199f61bdee85e3d9e331e3f427feeed'}
+  - {seq: 5, role: markers, filename: assets/KR6j0053_005-T.markers.yaml, hash: 'sha256:162a745617de107566aa597b4d5767f484ce6134cef306e671a48bdefb15ca93'}
+  - {seq: 6, role: markers, filename: assets/KR6j0053_006-T.markers.yaml, hash: 'sha256:0eac8df16dbe3c6c461512a510451f12219b30d18b462b8eab6ae31c7952433b'}
+  - {seq: 7, role: markers, filename: assets/KR6j0053_007-T.markers.yaml, hash: 'sha256:2dbac12259904fe4e15805d52065fc975ebbb16d9b6f14b3c44e534a26217038'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6408
+  label: '佛說一切如來金剛三業最上
+
+    祕密大教王經卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 安住一切如來三摩地大曼拏羅分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-2
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 2 菩提心分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-3
+    span:
+    - body
+    - 3596
+    - 3596
+  label: 3 金剛莊嚴三摩地分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-4
+    span:
+    - body
+    - 4159
+    - 4159
+  label: 4 一切如來心曼拏羅分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-5
+    span:
+    - body
+    - 4652
+    - 4652
+  label: 5 一切明句行分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0053_T_001-mulu-6
+    span:
+    - body
+    - 5370
+    - 5370
+  label: 6 身語心加持分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5609
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 7 祕密精妙行分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-mulu-2
+    span:
+    - body
+    - 988
+    - 988
+  label: 8 甘露三昧分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-mulu-3
+    span:
+    - body
+    - 1613
+    - 1613
+  label: 9 最上清淨真實三昧分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-mulu-4
+    span:
+    - body
+    - 2604
+    - 2604
+  label: 10 觀察一切如來心分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0053_T_002-mulu-5
+    span:
+    - body
+    - 3492
+    - 3492
+  label: 11 一切如來真實三昧最上持明大士分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0053_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7446
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0053_T_003-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 12 一切如來金剛相應三昧最上成就分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0053_T_003-mulu-2
+    span:
+    - body
+    - 2376
+    - 2376
+  label: 13 金剛相應莊嚴三昧真實觀想正智三摩地分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0053_T_003-mulu-3
+    span:
+    - body
+    - 6787
+    - 6787
+  label: 14 身語心未曾有大明句召尾日林毘多王最勝三摩地分
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0053_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7224
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0053_T_004-mulu-1
+    span:
+    - body
+    - 5731
+    - 5731
+  label: 15 一切心真實金剛出生三昧分
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0053_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5599
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0053_T_005-mulu-1
+    span:
+    - body
+    - 3243
+    - 3243
+  label: 16 一切曼拏羅成就金剛現證菩提分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0053_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5645
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0053_T_006-mulu-1
+    span:
+    - body
+    - 905
+    - 905
+  label: 17 一切如來三昧法金剛加持王分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0053_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6305
+  label: '佛說一切如來金剛三業最上祕
+
+    密大教王經卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0053_T_007-mulu-1
+    span:
+    - body
+    - 1023
+    - 1023
+  label: 18 宣說一切祕密行金剛加持分
+  type: mulu
+  level: 1
+hash: sha256:3e6ed456b0014c7d529bb266c8354ae3f19cb7aa2225650e04941de50edbfed0

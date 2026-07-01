@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0053/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說一切如來金剛三業最上祕密大教王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0885.xml
+    old_id: T18n0885
+hash: sha256:88f5f6413c7d8692e5853a05a9617d8b672cb088157186d94abad6188713eaa0
